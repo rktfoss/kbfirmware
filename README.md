@@ -1,5 +1,5 @@
-**Keyboard Firmware & configurator** 
+**keyboard firmware & configurator** 
 
 
 
-free for all to use without recognition.
+free for all to use without recognition or responsibility.

@@ -1,4 +1,4 @@
-**keyboard firmware & configurator** 
+**keyboard firmware & configurer** 
 
 
 

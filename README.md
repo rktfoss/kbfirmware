@@ -1,7 +1,7 @@
-**O.O1% complete**
+# O.O1% complete**
+
 **keyboard configurer & firmware delivery system**  
 **free for all to use without recognition or responsibility.**
-
 
 # code below is a mock up for demonstration purposes only
 

@@ -3,7 +3,7 @@
 **free for all to use without recognition or responsibility.**
 
 
-# code below is a mock up for demonstration purposes only**
+# code below is a mock up for demonstration purposes only
 
 **5x5 Keyboard Firmware in Zig
 

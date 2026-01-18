@@ -3,9 +3,9 @@
 **free for all to use without recognition or responsibility.**
 
 
-**code below is a mock up for demonstration purposes only**
+# code below is a mock up for demonstration purposes only**
 
-# 5x5 Keyboard Firmware in Zig
+**5x5 Keyboard Firmware in Zig
 
 Below is a possible implementation of firmware for a 5x5 matrix keyboard controller using Zig. 
 This implementation includes matrix scanning, debouncing, and a simple protocol to send keypresses to a host.

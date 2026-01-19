@@ -1,9 +1,5 @@
 # O.O1% complete
-
 **keyboard configurer & firmware delivery system**  
-**free for all to use without recognition or responsibility.**
-
-# code below is a mock up for demonstration purposes only
 
 **5x5 Keyboard Firmware in Zig
 
@@ -160,7 +156,7 @@ pub fn main() void {
 }
 ```
 
-## Implementation Notes:
+**possible Implementation:**
 
 1. **GPIO Handling**: the GPIO register types need to be implemented for your specific hardware platform. the
    code includes a mock implementation for simulation purposes only.
@@ -183,4 +179,4 @@ To use this code, you would need to:
 3. Adjust the key mapping to match your keyboard layout
 4. Add any necessary hardware initialization for your system
 
-**code above is a mock up for demonstration purposes only**
+**code above for demonstration purposes only**

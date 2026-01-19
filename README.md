@@ -1,7 +1,5 @@
 # O.O1% complete
-**keyboard configurer & firmware delivery system**  
-
-**5x5 Keyboard Firmware in Zig
+**keyboard configurer & firmware delivery system** 
 
 Below is a possible implementation of firmware for a 5x5 matrix keyboard controller using Zig. 
 This implementation includes matrix scanning, debouncing, and a simple protocol to send keypresses to a host.
